@@ -33,7 +33,7 @@ The landing page can be seen in the image below:
 
 ## 💻 How to use
 
-To acess the project, click on the link below:
+To access the project, click on the link below:
 
 [🔗 Click here to access](https://jeadamek.github.io/moveis-customizados/)
 
