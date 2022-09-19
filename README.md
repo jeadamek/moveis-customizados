@@ -35,7 +35,7 @@ The landing page can be seen in the image below:
 
 To acess the project, click on the link below:
 
-[🔗 Click here to acess](https://jeadamek.github.io/moveis-customizados/)
+[🔗 Click here to access](https://jeadamek.github.io/moveis-customizados/)
 
 
 ## 🎨 Layout
