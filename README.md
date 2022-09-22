@@ -35,11 +35,11 @@ The landing page can be seen in the image below:
 
 To access the project, click on the link below:
 
-🔗 <a href="https://jeadamek.github.io/moveis-customizados/" target="_blank">Click here to access</a>
+🔗 [Click here to access](https://jeadamek.github.io/moveis-customizados/)
 
 
 ## 🎨 Layout
 
-🔗 <a href="https://www.figma.com/file/fAvYZz4dPV5MfhL77XkqkD/Explorer---Projeto-01" target="_blank">View on Figma</a>
+🔗 [View on Figma](https://www.figma.com/file/fAvYZz4dPV5MfhL77XkqkD/Explorer---Projeto-01)
 
 
