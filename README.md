@@ -1,7 +1,16 @@
 <div align="center">
    <img src="https://www.rocketseat.com.br/assets/logos/explorer.svg" />
 </div>
-   <h3 align="center">🚀 Project 01 | Stage 02 - Explorer</h3>
+<h3 align="center">🚀 Project 01 | Stage 02 - Explorer</h3>
+<div align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/jeadamek/moveis-customizados">
+
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/jeadamek/moveis-customizados">
+  
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/jeadamek/moveis-customizados?color=%231280BF">
+  
+ <!-- <a href="https://jeadamek.github.io/moveis-customizados/"> ▶️ Access Project </a> -->
+</div>   
 
 
 ## ✏️ About
@@ -39,6 +48,8 @@ To access the project, click on the link below:
 
 
 ## 🎨 Layout
+
+To access the project's layout in Figma, click on the link below:
 
 🔗 [View on Figma](https://www.figma.com/file/fAvYZz4dPV5MfhL77XkqkD/Explorer---Projeto-01)
 
